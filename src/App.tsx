@@ -1,8 +1,8 @@
 import React from "react";
 import classNames from "clsx";
 
-import DollarIcon from "./images/icon-dollar.svg?react";
-import PersonIcon from "./images/icon-person.svg?react";
+import DollarIcon from "./assets/images/icon-dollar.svg?react";
+import PersonIcon from "./assets/images/icon-person.svg?react";
 import StyledTipCalculator from "./style";
 import "./font.css";
 
